@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Product_Maintenance
 {
-    public partial class Form1 : Form
+    public partial class FormNewProduct : Form
     {
-        public Form1()
+        public FormNewProduct()
         {
             InitializeComponent();
         }
